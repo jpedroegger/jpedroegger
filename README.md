@@ -1,4 +1,4 @@
-## Olá! Eu sou João Pedro Egger<br>Aspirante em tecnologia e atuante como DevWeb
+## Olá! Eu sou João Pedro Egger<br>Desenvolvedor backend priorizando Python e Django
 <div align="center">
   <a href="https://github.com/jpedroegger">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jpedroegger&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
