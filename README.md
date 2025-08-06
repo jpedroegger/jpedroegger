@@ -1,4 +1,4 @@
-## Hi! I'm João Pedro<br>Backend Developer
+## Hi! I'm João Pedro<br>Software Developer
 <div align="center">
   <a href="https://github.com/jpedroegger">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jpedroegger&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
